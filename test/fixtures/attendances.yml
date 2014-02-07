@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  match_id: 
+  player_id: 
+  type: 1
+  score: 9.99
+  winner: false
+
+two:
+  match_id: 
+  player_id: 
+  type: 1
+  score: 9.99
+  winner: false
